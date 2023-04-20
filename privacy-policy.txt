@@ -1,0 +1,18 @@
+Effective Date: 11 April 2023
+
+We at My Infra Manager value your privacy and are committed to protecting your personal information. This Privacy Policy describes how we collect, use, and share your information when you use our Infrastructure Management App (“My Infra Management”). By using the App, you consent to the terms of this Privacy Policy.
+
+Information We Collect
+We dont collect any information be it personal, device or log related.
+
+Data Security
+We dont save any information on our server. All the device stays on the device only including user information(If at all asked for).
+
+Children’s Privacy
+Our App is not intended for children under the age of 13. We do not knowingly collect personal information from children under 13.
+
+Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. If we make any material changes, we will notify you by posting the new Privacy Policy on our website.
+
+Contact Us
+If you have any questions about this Privacy Policy, please contact us at 91.rohit@gmail.com.
